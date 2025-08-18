@@ -116,4 +116,4 @@ public class GrafoDenso implements Grafo_Interface{
 }
 //tava com hashmap na cabeça/mente e fiz um mas aí deu errado pq tava tentando associar arr com matriz[i][j], vi como fazer. Daí percebi que nao precisa 
 //mas aí vi depois que com o hashmap vira O(1) e com o indexOf vira O(n)
-// concertar o número de arestas
+
